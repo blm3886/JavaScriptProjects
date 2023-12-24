@@ -21,5 +21,5 @@ The app is powered by the OpenWeatherMap free API, using the following endpoint:
 https://api.openweathermap.org/data/2.5/weather?units=metric&q=california
 
 Preview:
-https://github.com/blm3886/JavaScriptProjects/blob/main/Screen%20Recording%202023-12-23%20at%2010.30.30%20PM.mp4
+https://github.com/blm3886/JavaScriptProjects/blob/main/ezgif.com-video-to-gif-converted.gif
 
