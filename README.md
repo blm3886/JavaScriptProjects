@@ -3,6 +3,8 @@ Mini-JS Projects
 
 * WEATHER APP *
 
+* LINK : https://blm3886.github.io/JavaScriptProjects/
+
 The Weather App is a simple web application that provides real-time weather statistics based on city names. It utilizes the OpenWeatherMap free API to fetch current weather data, including temperature, humidity, and wind speed.
 
 Features:
